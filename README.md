@@ -42,7 +42,11 @@ To check if the accident occurred or not, the Raspberry Pi is connected to the O
 Presence of blood 
 Consciousness 
 Once these conditions are checked using the input from the sensors, Accicare will decide if the passenger/driver needs medical help or not. Once Accicare decides if the victim needs medical help or is safe, the decision is sent to the hospitals in the 5km range to take quick emergency actions which include sending an ambulance to the accident zone and informing the police about the accident. To achieve this, the control system shown is used. 
+GPS signals are collected using the NEO-6M module by the Raspberry Pi controller from the accident zone. Then, the controller generates a google maps link using the coordinates received from the GPS module.  This information along with all the accident information is sent to the cloud database.
+Cloud database stores the accident information referenced with a unique ID. The database also has the details of the hospitals registered in the portal designed for emergency response. The cloud database is linked with the portal to enable real-time updating of accidents with reference to their ID as shown below.
 
+
+![](https://user-images.githubusercontent.com/64918181/186972019-2f99fd77-32c3-4db6-aa2c-cc0dd47ccdba.png)
 
 ### TECHNOLOGIES USED :-
 

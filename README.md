@@ -36,10 +36,19 @@ one-third of the present death rate.
 ![](https://user-images.githubusercontent.com/64918181/186962470-5333adc6-b6a1-4f4c-b262-8c50fa3e75e9.png)
 <br>
 <br>
+### STRATEGY :-
+
+To check if the accident occurred or not, the Raspberry Pi is connected to the OBD (On-Board Diagnostics) port of the vehicle. The vehicle velocity and airbag information is taken from the OBD port to check for abrupt drop in velocity indicating high deceleration. This condition is checked and used to trigger the system as any accident will lead to high deceleration of the vehicle. The medical help request decision made by Accicare checks for 2 conditions to finalize the decision. 
+Presence of blood 
+Consciousness 
+Once these conditions are checked using the input from the sensors, Accicare will decide if the passenger/driver needs medical help or not.
+
 
 ### TECHNOLOGIES USED :-
 
 ```Machine Learning```  ```IOT```  ```Computer Vision``` ```NLP```  ```MongoDB```  ```Embedded System``` ```Python``` ```HTML``` ```CSS``` ```JavaScript``` ```Flask``` 
+
+### TAPED :-
 
 ### TEAM :-
 

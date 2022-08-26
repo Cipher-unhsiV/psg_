@@ -36,12 +36,12 @@ one-third of the present death rate.
 ![](https://user-images.githubusercontent.com/64918181/186962470-5333adc6-b6a1-4f4c-b262-8c50fa3e75e9.png)
 <br>
 <br>
-### STRATEGY :-
+### METHODOLOGY :-
 
 To check if the accident occurred or not, the Raspberry Pi is connected to the OBD (On-Board Diagnostics) port of the vehicle. The vehicle velocity and airbag information is taken from the OBD port to check for abrupt drop in velocity indicating high deceleration. This condition is checked and used to trigger the system as any accident will lead to high deceleration of the vehicle. The medical help request decision made by Accicare checks for 2 conditions to finalize the decision. 
 Presence of blood 
 Consciousness 
-Once these conditions are checked using the input from the sensors, Accicare will decide if the passenger/driver needs medical help or not.
+Once these conditions are checked using the input from the sensors, Accicare will decide if the passenger/driver needs medical help or not. Once Accicare decides if the victim needs medical help or is safe, the decision is sent to the hospitals in the 5km range to take quick emergency actions which include sending an ambulance to the accident zone and informing the police about the accident. To achieve this, the control system shown is used. 
 
 
 ### TECHNOLOGIES USED :-
@@ -57,4 +57,5 @@ Once these conditions are checked using the input from the sensors, Accicare wil
 | [Github](https://github.com/issacharben "Bennett profile") | [Github](https://github.com/Cipher-unhsiV "Vishnu profile") | [Github](https://github.com/venkat-p-r "Venkat profile") | [Github](https://github.com/SriranganK "Srirangan profile") | [Github](https://github.com/Marcus270503 "Siddeshwar profile") |
 | [LinkedIn](https://www.linkedin.com/in/bennett-joseph-718a18191/ "Bennett")| [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu") | [LinkedIn](https://www.linkedin.com/in/venkat-p-r/ "Venkat") | [LinkedIn](https://www.linkedin.com/in/srirangan-kannan-7017a8245/ "Srirangan") | [LinkedIn](https://www.linkedin.com/in/siddeshwar-v-a-765521238/ "Siddeshwar") |
 |![@Bennett](https://avatars.githubusercontent.com/issacharben?s=150&v=1)| ![@Vishnuvasan](https://avatars.githubusercontent.com/Cipher-unhsiV?s=150&v=1) | ![@Venkat](https://avatars.githubusercontent.com/venkat-p-r?s=150&v=1) | ![@Srirangan](https://avatars.githubusercontent.com/SriranganK?s=150&v=1) | ![@Siddeshwar](https://avatars.githubusercontent.com/Marcus270503?s=150&v=1)
+
 

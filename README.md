@@ -1,7 +1,7 @@
 
-# TEAM :- ACCICARE
+# ACCICARE
 
-![PSX_20210129_215539](https://user-images.githubusercontent.com/64918181/106348502-b85f7680-62ec-11eb-8ab7-4e671f319d0f.jpg)
+![PSX_20210129_215539](https://user-images.githubusercontent.com/64918181/186962876-42c2bd30-34a3-442a-af38-377639874e2f.png)
 
 ## OBJECTIVE :-
 
@@ -25,7 +25,24 @@ one-third of the present death rate.
 | [LinkedIn](https://www.linkedin.com/in/bennett-joseph-718a18191/ "Bennett")| [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu") | [LinkedIn](https://www.linkedin.com/in/venkat-p-r/ "Venkat") | [LinkedIn](https://www.linkedin.com/in/srirangan-kannan-7017a8245/ "Srirangan") | [LinkedIn](https://www.linkedin.com/in/siddeshwar-v-a-765521238/ "Siddeshwar") |
 |![@Bennett](https://avatars.githubusercontent.com/issacharben?s=150&v=1)| ![@Vishnuvasan](https://avatars.githubusercontent.com/Cipher-unhsiV?s=150&v=1) | ![@Venkat](https://avatars.githubusercontent.com/venkat-p-r?s=150&v=1) | ![@Srirangan](https://avatars.githubusercontent.com/SriranganK?s=150&v=1) | ![@Siddeshwar](https://avatars.githubusercontent.com/Marcus270503?s=150&v=1)
 
+## WORKING SCREENSHOTS :-
 
+### NLP module
+![](https://user-images.githubusercontent.com/64918181/186961190-5c31c06e-9cc9-4e72-b38d-f3bb26f09871.png)
+<br>
+<br>
+## Backend
+![](https://user-images.githubusercontent.com/64918181/186962455-0cd22377-2764-475e-bf57-5101b74282a5.png)
+<br>
+<br>
+## Frontend
+![](https://user-images.githubusercontent.com/64918181/186962864-18ded5a5-5619-4487-a67f-f3081dc71cb1.png)
+<br>
+<br>
+## Blood detection module
+![](https://user-images.githubusercontent.com/64918181/186962470-5333adc6-b6a1-4f4c-b262-8c50fa3e75e9.png)
+<br>
+<br>
 
 ## TECHNOLOGIES USED :-
 

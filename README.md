@@ -49,9 +49,12 @@ Cloud database stores the accident information referenced with a unique ID. The 
 ![](https://user-images.githubusercontent.com/64918181/186972019-2f99fd77-32c3-4db6-aa2c-cc0dd47ccdba.png)
 
 ### TECHNOLOGIES USED :-
-
-```Machine Learning```  ```IOT```  ```Computer Vision``` ```NLP```  ```MongoDB```  ```Embedded System``` ```Python``` ```HTML``` ```CSS``` ```JavaScript``` ```Flask``` 
-
+<pre>
+                <b> Machine Learning                         IOT                            Computer Vision 
+                         NLP                                MongoDB                         Embedded System 
+                        Python                               HTML                                 CSS 
+                      JavaScript                             Flask                              Markdown <b>
+</pre>
 ### TAPED :-
 
 ### TEAM :-

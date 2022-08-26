@@ -51,9 +51,9 @@ Cloud database stores the accident information referenced with a unique ID. The 
 ### TECHNOLOGIES USED :-
 <pre>
                <b>Machine Learning                       IOT                         Computer Vision 
-                        NLP                            MongoDB                       Embedded System 
-                      Python                             HTML                              CSS 
-                     JavaScript                          Flask                           Markdown <b>
+                     NLP                            MongoDB                       Embedded System 
+                    Python                             HTML                              CSS 
+                    JavaScript                          Flask                           Markdown <b>
 </pre>
 ### TAPED :-
 

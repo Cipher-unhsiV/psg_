@@ -5,7 +5,7 @@
 
 ## OBJECTIVE :-
 
-Injuries and deaths resulting from road accidents are a growing public health problem in India. Road crash deaths have increased by 31% from 2007 to 2017. Surveys show that a 
+Injuries and deaths resulting from road accidents are a growing public health problem in India. Road crash deaths have increased by 31% from 2007 to 2017. Surveys show that a 
 10 min reduction of the medical response time can be statistically associated with an average 
 decrease in the probability of death by one-third, both on motorways and conventional roads. We 
 propose an accident mitigation system that can be used in post-accident vehicles to reduce the 
@@ -21,9 +21,9 @@ one-third of the present death rate.
 
 | Bennett Joseph | Vishnuvasan | Venkat | Srirangan | Siddeshwar
 | --- | --- | --- | --- | --- |
-| [Github](https://github.com/issacharben "Bennett profile") | [Github](https://github.com/Cipher-unhsiV "Vishnu profile") | [Github](https://github.com/venkat-p-r "Venkat profile") | [Github](https://github.com/Saala-Cross-Breed "Srirangan profile") | [Github](https://github.com/Marcus270503 "Siddeshwar profile") |
+| [Github](https://github.com/issacharben "Bennett profile") | [Github](https://github.com/Cipher-unhsiV "Vishnu profile") | [Github](https://github.com/venkat-p-r "Venkat profile") | [Github](https://github.com/SriranganK "Srirangan profile") | [Github](https://github.com/Marcus270503 "Siddeshwar profile") |
 | [LinkedIn](https://www.linkedin.com/in/bennett-joseph-718a18191/ "Bennett")| [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu") | [LinkedIn](https://www.linkedin.com/in/venkat-p-r/ "Venkat") | [LinkedIn](https://www.linkedin.com/in/srirangan-kannan-7017a8245/ "Srirangan") | [LinkedIn](https://www.linkedin.com/in/siddeshwar-v-a-765521238/ "Siddeshwar") |
-|![@Bennett](https://avatars.githubusercontent.com/issacharben?s=150&v=1)| ![@Vishnuvasan](https://avatars.githubusercontent.com/Cipher-unhsiV?s=150&v=1) | ![@Venkat](https://avatars.githubusercontent.com/venkat-p-r?s=150&v=1) | ![@Srirangan](https://avatars.githubusercontent.com/Saala-Cross-Breed?s=150&v=1) | ![@Siddeshwar](https://avatars.githubusercontent.com/Marcus270503?s=150&v=1)
+|![@Bennett](https://avatars.githubusercontent.com/issacharben?s=150&v=1)| ![@Vishnuvasan](https://avatars.githubusercontent.com/Cipher-unhsiV?s=150&v=1) | ![@Venkat](https://avatars.githubusercontent.com/venkat-p-r?s=150&v=1) | ![@Srirangan](https://avatars.githubusercontent.com/SriranganK?s=150&v=1) | ![@Siddeshwar](https://avatars.githubusercontent.com/Marcus270503?s=150&v=1)
 
 
 

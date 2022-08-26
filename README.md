@@ -53,7 +53,7 @@ Cloud database stores the accident information referenced with a unique ID. The 
                <b>Machine Learning                       IOT                         Computer Vision 
                      NLP                            MongoDB                       Embedded System 
                     Python                             HTML                              CSS 
-                    JavaScript                          Flask                           Markdown <b>
+                  JavaScript                          Flask                           Markdown <b>
 </pre>
 ### TAPED :-
 
